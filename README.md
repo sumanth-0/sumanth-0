@@ -57,7 +57,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  https://streak-stats.demolab.com/?user=sumanth-0)](https://git.io/streak-stats
+    <img width=390 src="https://streak-stats.demolab.com/?user=sumanth-0" alt="streak stats"/>
+  
 </div>
 
 <br/><br/>
