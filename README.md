@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently a student
+ 🔭 I’m currently a software developer.
  
  🌱 I’m currently intersted in tech.
 
